@@ -1,10 +1,7 @@
-- 👋Oi, *joao* eu sou @joaogabriel123456789
-- 👀 Estou interessado em...
-- 🌱 Estou aprendendo...
-- 💞️ Estou procurando colaborar em...
-- 📫 Como chegar até mim...
-
-<!---
-joaogabriel123456789/joaogabriel123456789 é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
-Você pode clicar no link Visualizar para dar uma olhada nas suas alterações.
---->
+> 👋ola,meu nome e 
+> @joaogabriel123456789
+> meu gmail de contato e email
+> 🌱 no momento estou estudando programação em linguagens diferentes
+> 💞️ estou interessado a aprender programação em linguagens diferentes.
+> opção 1 Scratch
+> opçao 2 javascript
